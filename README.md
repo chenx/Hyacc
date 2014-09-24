@@ -87,3 +87,4 @@ The only exception is the parser engine file "hyaccpar", which is released under
 Author
 -----
 X. Chen
+Copyright @ 2006 - 2014

@@ -15,13 +15,13 @@ Hyacc is pronounced as "HiYacc", means Hawaii Yacc.
 
 Specifically, based on the original Knuth LR(1) algorithm, three optimizations are used:
 
-    LR(1) parser generation by combining compatible states [1].
-    Remove unit productions [2].
+    LR(1) parser generation by combining compatible states.
+    Remove unit productions.
     Further remove repeated states after the previous step. 
 
 Besides, Hyacc also implemented:
 
-    LR(1) parser generation by lane-tracing [3][4].
+    LR(1) parser generation by lane-tracing.
     LALR(1) based on lane-tracing.
     LR(0).
     A LR(k) algorithm that works for limited cases. 

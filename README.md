@@ -83,3 +83,7 @@ License
 Hyacc source code is released under the GPL license.
 
 The only exception is the parser engine file "hyaccpar", which is released under the BSD license. This guarantees that the generated parser can be used in both open source and commercial softwares. A similar situation was addressed by Richard Stallman in the release notes of Bison 1.23 and 1.24.
+
+Author
+-----
+X. Chen

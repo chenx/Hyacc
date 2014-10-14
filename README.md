@@ -4,7 +4,7 @@ hyacc
 What's New?
 -----
 
-Hyacc 0.97 is released on January 27, 2011.
+Hyacc 0.97 was released on January 27, 2011.
 
 What is Hyacc, and why it is special
 -----

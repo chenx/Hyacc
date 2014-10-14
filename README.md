@@ -13,7 +13,7 @@ Many people have used Yacc. It is a LALR(1) parser generator, often used with th
 
 Hyacc is similar to Yacc in that it is a parser generator. It is different from yacc in that it is a LR(1)/LALR(1)/LR(0) parser generator, which means it can accept all LR(1) grammars. This is more powerful than LALR(1) algorithm. A LR(1) parser generator also does not have the "mysterious reduce/reduce conflict" problem. Hyacc also supports LR(k) for limited cases.
 
-Hyacc is pronounced as "HiYacc", means Hawaii Yacc. 
+Hyacc is pronounced as "HiYacc", means Hawaii Yacc.
 
 Specifically, based on the original Knuth LR(1) algorithm, three optimizations are used:
 

@@ -20,7 +20,7 @@ https://sourceforge.net/projects/hyacc/files/hyacc%200.97/hyacc_unix_src_01_27_2
 ## New features added in Hyacc 0.98 by Perry Smith
 
 As I mentioned, I started with your 0.97 tarball and put it into the git 
-repository so the git history has all of my changes in it that you can review.  
+repository so the git history has all of my changes in it that you can review. 
 I will try to remember the major points:
 
 1) Got %union as well as %type, %left, and the others to work.  This includes several steps.
